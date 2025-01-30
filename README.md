@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I’m an **Electronics and Computer Science underg
 ---
 
 ## 🔗 Let's Connect!
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thulani-magedara-99868724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))   
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thulani-magedara-99868724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
 - 📧 [Email](thulanimagedara@gmail.com)  
 
 Thanks for stopping by! 😊 Let's build, learn, and make a difference together!
