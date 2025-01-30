@@ -1,4 +1,4 @@
-## Hi there 👋
+## Why, checking out my Profile 😁..
 
 # 👋 Hi, I'm Thulani!  
 
