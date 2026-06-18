@@ -1,71 +1,107 @@
-## Why, checking out my Profile 😁..
+<div align="center">
 
-# 👋 Hi, I'm Thulani!  
+# 🌌 THULANI MAGEDARA
 
-Welcome to my GitHub profile! I’m an **Electronics and Computer Science undergraduate** passionate about blending hardware and software to create impactful solutions. I enjoy working on **web development, AR/VR technologies**, and exploring **ML and AI** for real-world applications.
+### `APPLICATIONS ENGINEER // CYBER-PHYSICAL SYSTEM ARCHITECT`
 
----
-<!--
-## 🚀 What I'm Up To
-- 🔍 Currently learning **Machine Learning** and **Full-Stack Development**
-- 🧪 Exploring research projects that combine **AR/VR**, **Machine Learning**, and **Full-Stack Development**
-- 💻 Building an interactive portfolio website using **React, TypeScript, Spring Boot, and Figma**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;IoT+Firmware+Engineer;AR+and+Immersive+Systems;Ecosystem+Builder)](https://git.io/typing-svg)
 
----
--->
-
-## 🛠️ Skills & Technologies
-**Programming Languages:**  
-- TypeScript, JavaScript, C, Java
-
-**Frontend:**  
-- React, HTML, CSS, Tailwind CSS, Figma
-
-**Backend:**  
-- Spring Boot, REST APIs
-
-**Databases:**  
-- MySQL, MongoDB
-
-<!--
-**Others:**  
-- Git, Docker, Microcontrollers (PIC, Arduino), Proteus, MikroC
+<p align="center">
+  <a href="https://portfolio-thulani-wine.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio_Site-6366F1?style=for-the-badge&logo=spacemacs&logoColor=white&labelColor=030014"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thulani-magedara-99868724b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014"/>
+  </a>
+  <a href="mailto:thulanimagedara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014"/>
+  </a>
+</p>
 
 ---
 
+🤖 **Welcome to my Mainframe Command Center** 🤖  
+*I bridge the gap between abstract cloud architectures and bare-metal physical environments.*
 
-## 🌱 My Goals for 2025
-- 🎓 Graduate with outstanding academic achievements
-- 🔧 Build impactful projects in **AR/VR and full-stack development**
-- 📚 Publish research related to **greenhouse solar technology** and **smart systems**
-
----
--->
-
-## ✨ Interests Beyond Coding
-- 🌍 Passionate advocate for **animal welfare and environmental conservation**
-- 🎨 Creative content enthusiast, creating inspiring presentations and media for community projects
-- 🚀 Active member and **President of the Humane Society at University of Kelaniya**, focusing on leadership and soft skill development
+</div>
 
 ---
 
-## 🔗 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/thulani-magedara-99868724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   
-- 📧 [Email](thulanimagedara@gmail.com)  
+## ⚡ System Telemetry Dashboard
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Core Operations & Current Focus</h3>
+      <ul>
+        <li>🧬 <b>Specialization:</b> Scalable full-stack ecosystems and real-time concurrent data streaming.</li>
+        <li>🚀 <b>Active Deployment:</b> Designing high-fidelity React dashboards bound to IoT edge diagnostics.</li>
+        <li>🤖 <b>AI Integration:</b> Implementing advanced RAG structures and AI-driven planning frameworks into backend logic.</li>
+        <li>🔬 <b>Deep Tech:</b> Exploring decentralized Federated Learning algorithms and spatial AR mapping in Unity.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 GitHub Activity Telemetry</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ttmagedara2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030014&title_color=22d3ee&icon_color=6366f1&text_color=cbd5e1" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-Thanks for stopping by! 😊 Let's build, learn, and make a difference together!
+---
 
-<!--
-**ttmagedara2001/ttmagedara2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ The Tech Stack Arsenal
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪐 Software Languages & Backend Architecture
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs" alt="Backend Stack" />
+  </a>
+</p>
+
+### ☄️ Frontend & Real-Time Dashboards
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="Frontend Stack" />
+  </a>
+</p>
+
+### 🛰️ IoT, Firmware & Cloud Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,mongodb,mysql" alt="IoT and DB Stack" />
+  </a>
+</p>
+
+### 🧪 Advanced Pipelines & Immersive Engines
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,githubactions,docker,git" alt="Tools and Pipelines" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🏆 System Accolades & Mission Milestones
+*   👑 **Winner** — SDG Sprints Challenge *(IEEE Sri Lanka Section SIGHT)*
+*   🥈 **1st Runners Up** — HackX 10.0 *(Department of Industrial Management, UOK)*
+*   🎓 **Electronics & Computer Science Honors Undergraduate** at University of Kelaniya *(GPA 3.55)*
+*   💼 **Ex-Applications Engineer Intern** at Protonest IoT Pvt Ltd
+
+---
+
+## 🌿 Ecosystem & Off-Loop Vectors
+*   🦁 **President of the Humane Society** at the University of Kelaniya, engineering community impacts and animal welfare initiatives.
+*   🎨 Passionate about content choreography, presentation mapping, and crafting rich media layouts for cross-functional networks.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttmagedara2001&theme=tokyonight&hide_border=true&background=030014&sideNums=22d3ee&sideLabels=cbd5e1&dates=6366f1" alt="GitHub Streak Stats" />
+  
+  <br/>
+  
+  ✨ *Let's compile, optimize, and build hardware-software networks that make a real-world difference.* ✨
+</div>
