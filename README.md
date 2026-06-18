@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌌 THULANI MAGEDARA
+# THULANI MAGEDARA
 
-### `APPLICATIONS ENGINEER // CYBER-PHYSICAL SYSTEM ARCHITECT`
+### `CYBER-PHYSICAL SYSTEM ARCHITECT`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;IoT+Firmware+Engineer;AR+and+Immersive+Systems;Ecosystem+Builder)](https://git.io/typing-svg)
 
