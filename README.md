@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://portfolio-thulani-wine.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio_Site-6366F1?style=for-the-badge&logo=spacemacs&logoColor=white&labelColor=030014"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO_SITE-6366F1?style=for-the-badge&labelColor=030014"/>
   </a>
   <a href="https://www.linkedin.com/in/thulani-magedara-99868724b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&labelColor=030014"/>
   </a>
   <a href="mailto:thulanimagedara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&labelColor=030014"/>
   </a>
 </p>
 
